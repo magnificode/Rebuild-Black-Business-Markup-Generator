@@ -1,0 +1,34 @@
+{
+  "name": "house-of-giants",
+  "private": true,
+  "description": "The creative portfolio for House of Giants",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "gatsby": "^2.15.28",
+    "gatsby-plugin-styled-components": "^3.1.8",
+    "react": "^16.10.0",
+    "react-dom": "^16.10.0",
+    "styled-components": "^4.4.0",
+    "styled-normalize": "^8.0.6"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/house-of-giants/house-of-giants"
+  },
+  "bugs": {
+    "url": "https://github.com/house-of-giants/house-of-giants/issues"
+  }
+}
