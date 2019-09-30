@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to House of Giants Gatsby Starter 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/house-of-giants/house-of-giants#readme" target="_blank">
+  <a href="https://github.com/house-of-giants/gatsby-starter#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/house-of-giants/house-of-giants/graphs/commit-activity" target="_blank">
@@ -20,27 +20,17 @@
 ## Install
 
 ```sh
+git clone your_project git@github.com:house-of-giants/gatsby-starter.git
+cd your_project
 npm install
-```
-
-## Usage
-
-```sh
- 
-```
-
-## Run tests
-
-```sh
- 
 ```
 
 ## Author
 
 👤 **Dominic Magnifico**
 
-* Twitter: [@magnificode](https://twitter.com/magnificode)
-* Github: [@magnificode](https://github.com/magnificode)
+- Twitter: [@magnificode](https://twitter.com/magnificode)
+- Github: [@magnificode](https://github.com/magnificode)
 
 ## 🤝 Contributing
 
@@ -54,6 +44,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Dominic Magnifico](https://github.com/magnificode).<br />
 This project is [MIT](https://github.com/house-of-giants/house-of-giants/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
