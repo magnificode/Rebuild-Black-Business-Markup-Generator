@@ -4,7 +4,7 @@ import { createGlobalStyle } from 'styled-components'
 import globalStyles from '../styles/styles'
 
 const GlobalStyle = createGlobalStyle`
-  ${globalStyles}
+  ${() => globalStyles}
 `
 
 const Layout = ({ children }) => (
