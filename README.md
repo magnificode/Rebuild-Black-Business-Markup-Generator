@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to House of Giants Gatsby Starter 👋</h1>
+<h1 align="center">Welcome to the Rebuild Black Businesses Markup Generator 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/house-of-giants/gatsby-starter#readme" target="_blank">
@@ -15,32 +15,21 @@
   </a>
 </p>
 
-> A barebones Gatsby Starter with Prettier and Styled Components
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/rebuildblackbusinesses/markup-generator/issues).
+
 
 ## Install
 
 ```sh
-git clone your_project git@github.com:house-of-giants/gatsby-starter.git
+git clone git@github.com:magnificode/Rebuild-Black-Business-Markup-Generator.git
 cd your_project
 npm install
+npm run build
 ```
-
-## Author
-
-👤 **Dominic Magnifico**
-
-- Twitter: [@magnificode](https://twitter.com/magnificode)
-- Github: [@magnificode](https://github.com/magnificode)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/house-of-giants/gatsby-starter/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Dominic Magnifico](https://github.com/magnificode).<br />
-This project is [MIT](https://github.com/house-of-giants/house-of-giants/blob/master/LICENSE) licensed.
+Copyright © 2020 [Rebuild Black Businesses](https://github.com/rebuildblackbusinesses/markup-generator/issues).<br />
+This project is [MIT](https://github.com/rebuildblackbusinesses/markup-generator/blob/master/LICENSE) licensed.

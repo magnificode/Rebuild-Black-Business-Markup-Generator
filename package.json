@@ -1,7 +1,7 @@
 {
-  "name": "house-of-giants",
+  "name": "rebuild-black-business-markup-generator",
   "private": true,
-  "description": "The creative portfolio for House of Giants",
+  "description": "HTML markup generator for Rebuild Black Businesses",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -13,22 +13,24 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
-    "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.19.12",
-    "gatsby-plugin-styled-components": "^3.1.8",
-    "react": "^16.10.0",
-    "react-dom": "^16.10.0",
-    "styled-components": "^4.4.0",
-    "styled-normalize": "^8.0.6"
+    "babel-plugin-styled-components": "^1.10.7",
+    "gatsby": "^2.22.17",
+    "gatsby-plugin-styled-components": "^3.3.3",
+    "gatsby-source-filesystem": "^2.3.10",
+    "gatsby-transformer-csv": "^2.3.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1",
+    "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/house-of-giants/house-of-giants"
+    "url": "https://github.com/rebuildblackbusinesses/markup-generator"
   },
   "bugs": {
-    "url": "https://github.com/house-of-giants/house-of-giants/issues"
+    "url": "https://github.com/rebuildblackbusinesses/markup-generator/issues"
   }
 }
