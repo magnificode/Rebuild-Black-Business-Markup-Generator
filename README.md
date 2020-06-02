@@ -10,9 +10,6 @@
   <a href="https://github.com/house-of-giants/house-of-giants/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/magnificode" target="_blank">
-    <img alt="Twitter: magnificode" src="https://img.shields.io/twitter/follow/magnificode.svg?style=social" />
-  </a>
 </p>
 
 ## 🤝 Contributing
